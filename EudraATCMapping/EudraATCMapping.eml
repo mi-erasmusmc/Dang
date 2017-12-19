@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="httpcore-4.3.1.jar" scope="COMPILE">
+		<srcroot url="jar:///home/dangvh/.ideaLibSources/httpcore-4.3.1-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/httpcore-4.3.1.jar!/"/>
+	</lib>
+	<lib name="httpmime-4.3.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/httpmime-4.3.2.jar!/"/>
+	</lib>
+	<lib name="log4j-1.2.16.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/log4j-1.2.16.jar!/"/>
+	</lib>
+	<lib name="jcl-over-slf4j-1.6.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.6.6.jar!/"/>
+	</lib>
+	<lib name="slf4j-api-1.6.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/slf4j-api-1.6.6.jar!/"/>
+	</lib>
+	<lib name="slf4j-log4j12-1.6.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/slf4j-log4j12-1.6.6.jar!/"/>
+	</lib>
+	<lib name="httpclient-4.3.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/httpclient-4.3.2.jar!/"/>
+	</lib>
+	<lib name="noggit-0.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/noggit-0.5.jar!/"/>
+	</lib>
+	<lib name="commons-lang-2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/commons-lang-2.6.jar!/"/>
+	</lib>
+	<lib name="solr-core-5.4.1.jar" scope="COMPILE">
+		<srcroot url="jar:///home/dangvh/.ideaLibSources/solr-core-5.4.1-sources.jar!/"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/solr-core-5.4.1.jar!/"/>
+	</lib>
+	<lib name="solr-solrj-5.4.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/solr-solrj-5.4.1.jar!/"/>
+	</lib>
+	<lib name="opencsv-3.7.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/opencsv-3.7.jar!/"/>
+	</lib>
+	<lib name="commons-cli-1.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/commons-cli-1.2.jar!/"/>
+	</lib>
+	<lib name="commons-io-2.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/commons-io-2.1.jar!/"/>
+	</lib>
+	<lib name="commons-codec-1.8.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/commons-codec-1.8.jar!/"/>
+	</lib>
+	<lib name="mariadb-java-client-1.4.5.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/mariadb-java-client-1.4.5.jar!/"/>
+	</lib>
+	<lib name="java-string-similarity-0.13-javadoc.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/java-string-similarity-0.13-javadoc.jar!/"/>
+	</lib>
+	<lib name="java-string-similarity-0.13.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/lib/java-string-similarity-0.13.jar!/"/>
+	</lib>
+</component>

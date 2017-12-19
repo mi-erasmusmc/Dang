@@ -1,0 +1,1059 @@
+Date: 2017-01-04 22:36
+1. Drug: INSULIN HUMAN ISOPHANE	[A10AC01]
+
+	-------------TP------------------ 
+	2.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AC01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+
+	-------------FP------------------ 
+	2.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AD01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+	3.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AF01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+	4.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AE01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+	5.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AB01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+2. Drug: INSULIN HUMAN ISOPHANE PRB	[A10AC01]
+
+	-------------TP------------------ 
+	2.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AC01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+
+	-------------FP------------------ 
+	2.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AD01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+	3.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AF01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+	4.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AE01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+	5.Drug: insulin human isophane(C0795633); Normalized: insulin human isophane; 	Ingredient: Human insulin(C0795635); Normalized: human insulin; 	ATC: A10AB01; 	Rela: active_ingredient_of;	TTY: SY;	SAB: CHV
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+3. Drug: INSULIN ISOPHANE LISPRO	[A10AB04,A10AC04,A10AD04]
+
+	-------------TP------------------ 
+	2.Drug: Lispro(C0293359); Normalized: lispro; 	Ingredient: insulin lispro(C0293359); Normalized: insulin lispro; 	ATC: A10AB04; 	Rela: ;	TTY: SY;	SAB: NDFRT
+	3.Drug: Lispro(C0293359); Normalized: lispro; 	Ingredient: insulin lispro(C0293359); Normalized: insulin lispro; 	ATC: A10AC04; 	Rela: ;	TTY: SY;	SAB: NDFRT
+	4.Drug: Lispro(C0293359); Normalized: lispro; 	Ingredient: insulin lispro(C0293359); Normalized: insulin lispro; 	ATC: A10AD04; 	Rela: ;	TTY: SY;	SAB: NDFRT
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+4. Drug: INTERFERON ALFA	[L03AB04,L03AB05,L03AB01,L03AB06]
+
+	-------------TP------------------ 
+	2.Drug: Interferon Alfa(C0699817); Normalized: interferon alfa; 	Ingredient: interferon alfa-n1(C0699817); Normalized: interferon alfa n1; 	ATC: L03AB06; 	Rela: ;	TTY: SY;	SAB: NCI
+	3.Drug: Interferon Alfa(C0021734); Normalized: interferon alfa; 	Ingredient: interferon alfa-2a(C0021734); Normalized: interferon alfa 2a; 	ATC: L03AB04; 	Rela: ;	TTY: SY;	SAB: PDQ
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+	2.Drug: INTERFERON ALFA(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: L03AB05; 	Rela: null;	TTY: null;	SAB: null
+	3.Drug: INTERFERON ALFA(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: L03AB01; 	Rela: null;	TTY: null;	SAB: null
+
+	-------------TN------------------ 
+5. Drug: IOHEXOL	[V08AB02]
+
+	-------------TP------------------ 
+	2.Drug: Iohexol(C0022005); Normalized: iohexol; 	Ingredient: iohexol(C0022005); Normalized: iohexol; 	ATC: V08AB02; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+6. Drug: ISOPRENALINE HYDROCHLORIDE	[C01CA02,R03AB02,R03CB01]
+
+	-------------TP------------------ 
+	2.Drug: Isoprenaline(C0022245); Normalized: isoprenaline; 	Ingredient: isoprenaline(C0022245); Normalized: isoprenaline; 	ATC: R03AB02; 	Rela: ;	TTY: PT;	SAB: RCD
+	3.Drug: Isoprenaline(C0022245); Normalized: isoprenaline; 	Ingredient: isoprenaline(C0022245); Normalized: isoprenaline; 	ATC: R03CB01; 	Rela: ;	TTY: PT;	SAB: RCD
+	4.Drug: Isoprenaline(C0022245); Normalized: isoprenaline; 	Ingredient: isoprenaline(C0022245); Normalized: isoprenaline; 	ATC: C01CA02; 	Rela: ;	TTY: PT;	SAB: RCD
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+7. Drug: KAOLIN	[A07BC02]
+
+	-------------TP------------------ 
+	2.Drug: Kaolin(C0022499); Normalized: kaolin; 	Ingredient: kaolin(C0022499); Normalized: kaolin; 	ATC: A07BC02; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+8. Drug: KETOTIFEN HYDROGEN FUMARATE	[R06AX17,S01GX08]
+
+	-------------TP------------------ 
+	2.Drug: Ketotifen(C0022642); Normalized: ketotifen; 	Ingredient: ketotifen(C0022642); Normalized: ketotifen; 	ATC: S01GX08; 	Rela: ;	TTY: PT;	SAB: LCH
+	3.Drug: Ketotifen(C0022642); Normalized: ketotifen; 	Ingredient: ketotifen(C0022642); Normalized: ketotifen; 	ATC: R06AX17; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+9. Drug: KLEBSIELLA PNEUMONIAE GLYCOPROTEIN	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: KLEBSIELLA PNEUMONIAE GLYCOPROTEIN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+10. Drug: L-ASPARAGINE MONOHYDRATE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: L-ASPARAGINE MONOHYDRATE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+11. Drug: L-MALIC ACID	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: L-MALIC ACID(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+12. Drug: LACTOBACILLUS ACIDOPHILUS + BIFIDOBACTERIUM INFANTIS + ENTEROCOCCUS FAECIUM	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: LACTOBACILLUS ACIDOPHILUS + BIFIDOBACTERIUM INFANTIS + ENTEROCOCCUS FAECIUM(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+13. Drug: LAURETH COMPOUNDS	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: LAURETH COMPOUNDS(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+14. Drug: LEVACETYLMETHADOL	[N07BC03]
+
+	-------------TP------------------ 
+	2.Drug: Levacetylmethadol(C3536876); Normalized: levacetylmethadol; 	Ingredient: levacetylmethadol(C3536876); Normalized: levacetylmethadol; 	ATC: N07BC03; 	Rela: ;	TTY: SY;	SAB: NCI
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+15. Drug: LEVALLORPHAN TARTRATE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: LEVALLORPHAN TARTRATE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+16. Drug: LEVODROPROPIZINE	[R05DB27]
+
+	-------------TP------------------ 
+	2.Drug: Levodropropizine(C0125654); Normalized: levodropropizine; 	Ingredient: levodropropizine(C0125654); Normalized: levodropropizine; 	ATC: R05DB27; 	Rela: ;	TTY: PT;	SAB: NCI
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+17. Drug: LOLIUM	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: LOLIUM(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+18. Drug: LYPRESSIN	[H01BA03]
+
+	-------------TP------------------ 
+	2.Drug: Lypressin(C0024328); Normalized: lypressin; 	Ingredient: lypressin(C0024328); Normalized: lypressin; 	ATC: H01BA03; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+19. Drug: MAGALDRATE	[A02AD02]
+
+	-------------TP------------------ 
+	2.Drug: magaldrate(C0065512); Normalized: magaldrate; 	Ingredient: magaldrate(C0065512); Normalized: magaldrate; 	ATC: A02AD02; 	Rela: ;	TTY: GN;	SAB: MMSL
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+20. Drug: MAGNESIUM CITRATE	[A06AD19,A12CC04,B05CB03]
+
+	-------------TP------------------ 
+	2.Drug: magnesium citrate(C0126774); Normalized: magnesium citrate; 	Ingredient: magnesium citrate(C0126774); Normalized: magnesium citrate; 	ATC: B05CB03; 	Rela: ;	TTY: GN;	SAB: MMSL
+	3.Drug: magnesium citrate(C0126774); Normalized: magnesium citrate; 	Ingredient: magnesium citrate(C0126774); Normalized: magnesium citrate; 	ATC: A06AD19; 	Rela: ;	TTY: GN;	SAB: MMSL
+	4.Drug: magnesium citrate(C0126774); Normalized: magnesium citrate; 	Ingredient: magnesium citrate(C0126774); Normalized: magnesium citrate; 	ATC: A12CC04; 	Rela: ;	TTY: GN;	SAB: MMSL
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+21. Drug: METOPROLOL SUCCINATE	[C07AB02]
+
+	-------------TP------------------ 
+	2.Drug: Metoprolol(C0025859); Normalized: metoprolol; 	Ingredient: metoprolol(C0025859); Normalized: metoprolol; 	ATC: C07AB02; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+22. Drug: MIRTAZAPINE	[N06AX11]
+
+	-------------TP------------------ 
+	2.Drug: mirtazapine(C0049506); Normalized: mirtazapine; 	Ingredient: mirtazapine(C0049506); Normalized: mirtazapine; 	ATC: N06AX11; 	Rela: ;	TTY: GN;	SAB: MMSL
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+23. Drug: MIYARI BACTERIA	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: MIYARI BACTERIA(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+24. Drug: MYCOBACTERIUM BOVIS	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: MYCOBACTERIUM BOVIS(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+25. Drug: MYCOPHENOLIC ACID	[L04AA06]
+
+	-------------TP------------------ 
+	2.Drug: Mycophenolic Acid(C0026933); Normalized: mycophenolic acid; 	Ingredient: mycophenolic acid(C0026933); Normalized: mycophenolic acid; 	ATC: L04AA06; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+26. Drug: NEDOCROMIL	[R01AC07,R03BC03,S01GX04]
+
+	-------------TP------------------ 
+	2.Drug: Nedocromil(C0068483); Normalized: nedocromil; 	Ingredient: nedocromil(C0068483); Normalized: nedocromil; 	ATC: R03BC03; 	Rela: ;	TTY: MH;	SAB: MSH
+	3.Drug: Nedocromil(C0068483); Normalized: nedocromil; 	Ingredient: nedocromil(C0068483); Normalized: nedocromil; 	ATC: S01GX04; 	Rela: ;	TTY: MH;	SAB: MSH
+	4.Drug: Nedocromil(C0068483); Normalized: nedocromil; 	Ingredient: nedocromil(C0068483); Normalized: nedocromil; 	ATC: R01AC07; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+27. Drug: NELARABINE	[L01BB07]
+
+	-------------TP------------------ 
+	2.Drug: NELARABINE(C0907349); Normalized: nelarabine; 	Ingredient: nelarabine(C0907349); Normalized: nelarabine; 	ATC: L01BB07; 	Rela: ;	TTY: SU;	SAB: MTHSPL
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+28. Drug: NEVIRAPINE HEMIHYDRATE	[J05AG01]
+
+	-------------TP------------------ 
+	2.Drug: nevirapine(C0132326); Normalized: nevirapine; 	Ingredient: nevirapine(C0132326); Normalized: nevirapine; 	ATC: J05AG01; 	Rela: ;	TTY: PT;	SAB: CSP
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+29. Drug: NICOCLONATE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: NICOCLONATE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+30. Drug: NITRAZEPAM	[N05CD02]
+
+	-------------TP------------------ 
+	2.Drug: Nitrazepam(C0028126); Normalized: nitrazepam; 	Ingredient: nitrazepam(C0028126); Normalized: nitrazepam; 	ATC: N05CD02; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+31. Drug: NITRENDIPINE	[C08CA08]
+
+	-------------TP------------------ 
+	2.Drug: Nitrendipine(C0028127); Normalized: nitrendipine; 	Ingredient: nitrendipine(C0028127); Normalized: nitrendipine; 	ATC: C08CA08; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+32. Drug: NOMEGESTROL ACETATE	[G03DB04]
+
+	-------------TP------------------ 
+	2.Drug: nomegestrol(C0068922); Normalized: nomegestrol; 	Ingredient: nomegestrol(C0068922); Normalized: nomegestrol; 	ATC: G03DB04; 	Rela: ;	TTY: NM;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+33. Drug: NORAMIDOPYRINE	[N02BB02]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+	2.Drug: NORAMIDOPYRINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: N02BB02; 	Rela: null;	TTY: null;	SAB: null
+
+	-------------TN------------------ 
+34. Drug: NORETHISTERONE ACETATE	[G03AC01,G03DC02]
+
+	-------------TP------------------ 
+	2.Drug: norethisterone acetate(C0068980); Normalized: norethisterone acetate; 	Ingredient: Norethindrone(C0028356); Normalized: norethindrone; 	ATC: G03DC02; 	Rela: active_ingredient_of;	TTY: CE;	SAB: MSH
+	3.Drug: norethisterone acetate(C0068980); Normalized: norethisterone acetate; 	Ingredient: Norethindrone(C0028356); Normalized: norethindrone; 	ATC: G03AC01; 	Rela: active_ingredient_of;	TTY: CE;	SAB: MSH
+
+	-------------FP------------------ 
+	2.Drug: norethisterone acetate(C0068980); Normalized: norethisterone acetate; 	Ingredient: progesterona(C0033308); Normalized: progesterona; 	ATC: G03DA04; 	Rela: active_ingredient_of;	TTY: CE;	SAB: MSH
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+35. Drug: OLEUM GAULTHERIAE D4	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: OLEUM GAULTHERIAE D4(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+36. Drug: OX BILE EXTRACT	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+37. Drug: OXPRENOLOL	[C07AA02]
+
+	-------------TP------------------ 
+	2.Drug: Oxprenolol(C0030040); Normalized: oxprenolol; 	Ingredient: oxprenolol(C0030040); Normalized: oxprenolol; 	ATC: C07AA02; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+38. Drug: OXYTETRACYCLINE HYDROCHLORIDE	[D06AA03,G01AA07,J01AA06,S01AA04]
+
+	-------------TP------------------ 
+	2.Drug: Oxytetracycline(C0030092); Normalized: oxytetracycline; 	Ingredient: oxytetracycline(C0030092); Normalized: oxytetracycline; 	ATC: D06AA03; 	Rela: ;	TTY: MH;	SAB: MSH
+	3.Drug: Oxytetracycline(C0030092); Normalized: oxytetracycline; 	Ingredient: oxytetracycline(C0030092); Normalized: oxytetracycline; 	ATC: S01AA04; 	Rela: ;	TTY: MH;	SAB: MSH
+	4.Drug: Oxytetracycline(C0030092); Normalized: oxytetracycline; 	Ingredient: oxytetracycline(C0030092); Normalized: oxytetracycline; 	ATC: G01AA07; 	Rela: ;	TTY: MH;	SAB: MSH
+	5.Drug: Oxytetracycline(C0030092); Normalized: oxytetracycline; 	Ingredient: oxytetracycline(C0030092); Normalized: oxytetracycline; 	ATC: J01AA06; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+39. Drug: P-PHENYLENEDIAMINE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: P-PHENYLENEDIAMINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+40. Drug: PARALDEHYDE	[N05CC05]
+
+	-------------TP------------------ 
+	2.Drug: Paraldehyde(C0030438); Normalized: paraldehyde; 	Ingredient: paraldehyde(C0030438); Normalized: paraldehyde; 	ATC: N05CC05; 	Rela: ;	TTY: BN;	SAB: MMSL
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+41. Drug: PENTOXYVERINE TANNATE	[R05DB05]
+
+	-------------TP------------------ 
+	2.Drug: pentoxyverine(C0054668); Normalized: pentoxyverine; 	Ingredient: pentoxyverine(C0054668); Normalized: pentoxyverine; 	ATC: R05DB05; 	Rela: ;	TTY: CE;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+42. Drug: PERFLUTREN	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: PERFLUTREN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+43. Drug: PHENYLEPHRINE	[C01CA06,R01AA04,R01AB01,R01BA03,S01FB01,S01GA05]
+
+	-------------TP------------------ 
+	2.Drug: Phenylephrine(C0031469); Normalized: phenylephrine; 	Ingredient: phenylephrine(C0031469); Normalized: phenylephrine; 	ATC: S01GA05; 	Rela: ;	TTY: MH;	SAB: MSH
+	3.Drug: Phenylephrine(C0031469); Normalized: phenylephrine; 	Ingredient: phenylephrine(C0031469); Normalized: phenylephrine; 	ATC: C01CA06; 	Rela: ;	TTY: MH;	SAB: MSH
+	4.Drug: Phenylephrine(C0031469); Normalized: phenylephrine; 	Ingredient: phenylephrine(C0031469); Normalized: phenylephrine; 	ATC: R01AB01; 	Rela: ;	TTY: MH;	SAB: MSH
+	5.Drug: Phenylephrine(C0031469); Normalized: phenylephrine; 	Ingredient: phenylephrine(C0031469); Normalized: phenylephrine; 	ATC: R01BA03; 	Rela: ;	TTY: MH;	SAB: MSH
+	6.Drug: Phenylephrine(C0031469); Normalized: phenylephrine; 	Ingredient: phenylephrine(C0031469); Normalized: phenylephrine; 	ATC: R01AA04; 	Rela: ;	TTY: MH;	SAB: MSH
+	7.Drug: Phenylephrine(C0031469); Normalized: phenylephrine; 	Ingredient: phenylephrine(C0031469); Normalized: phenylephrine; 	ATC: S01FB01; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+44. Drug: PIMECROLIMUS	[D11AH02]
+
+	-------------TP------------------ 
+	2.Drug: PIMECROLIMUS(C1099414); Normalized: pimecrolimus; 	Ingredient: pimecrolimus(C1099414); Normalized: pimecrolimus; 	ATC: D11AH02; 	Rela: ;	TTY: FN;	SAB: NDFRT
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+45. Drug: PLAUNOTOL	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: PLAUNOTOL(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+46. Drug: POLYMYXIN	[A07AA05,J01XB02,S01AA18,S02AA11,S03AA03]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+	2.Drug: POLYMYXIN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: A07AA05; 	Rela: null;	TTY: null;	SAB: null
+	3.Drug: POLYMYXIN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: J01XB02; 	Rela: null;	TTY: null;	SAB: null
+	4.Drug: POLYMYXIN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: S01AA18; 	Rela: null;	TTY: null;	SAB: null
+	5.Drug: POLYMYXIN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: S02AA11; 	Rela: null;	TTY: null;	SAB: null
+	6.Drug: POLYMYXIN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: S03AA03; 	Rela: null;	TTY: null;	SAB: null
+
+	-------------TN------------------ 
+47. Drug: PROMETHAZINE	[D04AA10,R06AD02]
+
+	-------------TP------------------ 
+	2.Drug: Promethazine(C0033405); Normalized: promethazine; 	Ingredient: promethazine(C0033405); Normalized: promethazine; 	ATC: R06AD02; 	Rela: ;	TTY: MH;	SAB: MSH
+	3.Drug: Promethazine(C0033405); Normalized: promethazine; 	Ingredient: promethazine(C0033405); Normalized: promethazine; 	ATC: D04AA10; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+48. Drug: PRUCALOPRIDE	[A06AX05]
+
+	-------------TP------------------ 
+	2.Drug: Prucalopride(C0913506); Normalized: prucalopride; 	Ingredient: prucalopride(C0913506); Normalized: prucalopride; 	ATC: A06AX05; 	Rela: ;	TTY: PT;	SAB: NCI
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+49. Drug: PUMACTANT	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: PUMACTANT(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+50. Drug: PYRETHRIN II	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+51. Drug: QUERCETIN	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: QUERCETIN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+52. Drug: RHUS AROMATICA EXTRACT	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: RHUS AROMATICA EXTRACT(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+53. Drug: RITODRINE	[G02CA01]
+
+	-------------TP------------------ 
+	2.Drug: Ritodrine(C0035661); Normalized: ritodrine; 	Ingredient: ritodrine(C0035661); Normalized: ritodrine; 	ATC: G02CA01; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+54. Drug: RUMEX ACETOSA	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: RUMEX ACETOSA(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+55. Drug: RYE POLLEN ALLERGOID GLUTARALDEHYDE MODIFIED	[V01AA02]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+	2.Drug: RYE POLLEN ALLERGOID GLUTARALDEHYDE MODIFIED(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: V01AA02; 	Rela: null;	TTY: null;	SAB: null
+
+	-------------TN------------------ 
+56. Drug: SACCHAROMYCES BOULARDIIï¿½CNCM I-745 LYOPHILIZED	[A07FA02]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+	2.Drug: SACCHAROMYCES BOULARDIIï¿½CNCM I-745 LYOPHILIZED(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: A07FA02; 	Rela: null;	TTY: null;	SAB: null
+
+	-------------TN------------------ 
+57. Drug: SALAZOSULFAPYRIDINE	[A07EC01]
+
+	-------------TP------------------ 
+	2.Drug: Salazosulfapyridine(C0036078); Normalized: salazosulfapyridine; 	Ingredient: sulfasalazine(C0036078); Normalized: sulfasalazine; 	ATC: A07EC01; 	Rela: ;	TTY: SY;	SAB: RCD
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+58. Drug: SCOPOLIA CARNIOLICA EXT	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: SCOPOLIA CARNIOLICA EXT(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+59. Drug: SECALE CEREALE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: SECALE CEREALE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+60. Drug: SENNA ALEXANDRIAN	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: SENNA ALEXANDRIAN(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+61. Drug: SODIUM CITRATE	[B05CB02]
+
+	-------------TP------------------ 
+	2.Drug: sodium citrate(C0142825); Normalized: sodium citrate; 	Ingredient: sodium citrate(C0142825); Normalized: sodium citrate; 	ATC: B05CB02; 	Rela: ;	TTY: GN;	SAB: MMSL
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+62. Drug: SODIUM FLUORIDE	[A01AA01,A12CD01]
+
+	-------------TP------------------ 
+	2.Drug: Sodium Fluoride(C0037508); Normalized: sodium fluoride; 	Ingredient: sodium fluoride(C0037508); Normalized: sodium fluoride; 	ATC: A12CD01; 	Rela: ;	TTY: BN;	SAB: MMSL
+	3.Drug: Sodium Fluoride(C0037508); Normalized: sodium fluoride; 	Ingredient: sodium fluoride(C0037508); Normalized: sodium fluoride; 	ATC: A01AA01; 	Rela: ;	TTY: BN;	SAB: MMSL
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+63. Drug: SODIUM OXYBATE	[N07XX04,N01AX11]
+
+	-------------TP------------------ 
+	2.Drug: Sodium Oxybate(C0037537); Normalized: sodium oxybate; 	Ingredient: sodium oxybate(C0037537); Normalized: sodium oxybate; 	ATC: N07XX04; 	Rela: ;	TTY: MH;	SAB: MSH
+	3.Drug: Sodium Oxybate(C0037537); Normalized: sodium oxybate; 	Ingredient: sodium oxybate(C0037537); Normalized: sodium oxybate; 	ATC: N01AX11; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+64. Drug: STRAMONIUM	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: STRAMONIUM(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+65. Drug: STREPTOCOCCI PNEUMONIAE POLYSACCHARIDUM T 14	[J07AL02]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+	2.Drug: STREPTOCOCCI PNEUMONIAE POLYSACCHARIDUM T 14(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: J07AL02; 	Rela: null;	TTY: null;	SAB: null
+
+	-------------TN------------------ 
+66. Drug: SULFAMERAZINE	[D06BA06,J01ED07]
+
+	-------------TP------------------ 
+	2.Drug: Sulfamerazine(C0038684); Normalized: sulfamerazine; 	Ingredient: sulfamerazine(C0038684); Normalized: sulfamerazine; 	ATC: J01ED07; 	Rela: ;	TTY: MH;	SAB: MSH
+	3.Drug: Sulfamerazine(C0038684); Normalized: sulfamerazine; 	Ingredient: sulfamerazine(C0038684); Normalized: sulfamerazine; 	ATC: D06BA06; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+67. Drug: SULFINPYRAZONE	[M04AB02]
+
+	-------------TP------------------ 
+	2.Drug: Sulfinpyrazone(C0038742); Normalized: sulfinpyrazone; 	Ingredient: sulfinpyrazone(C0038742); Normalized: sulfinpyrazone; 	ATC: M04AB02; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+68. Drug: SWINE BRAIN HYDROLYSATE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: SWINE BRAIN HYDROLYSATE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+69. Drug: TALC	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: TALC(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+70. Drug: TARAXACUM	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: TARAXACUM(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+71. Drug: TENAMFETAMINE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: TENAMFETAMINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+72. Drug: TESTOSTERONE HEXAHYDROBENZOATE	[G03BA03]
+
+	-------------TP------------------ 
+	2.Drug: Testosterone(C0039601); Normalized: testosterone; 	Ingredient: testosterone(C0039601); Normalized: testosterone; 	ATC: G03BA03; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+73. Drug: TESTOSTERONE PHENYLPROPIONATE	[G03BA03]
+
+	-------------TP------------------ 
+	2.Drug: Testosterone(C0039601); Normalized: testosterone; 	Ingredient: testosterone(C0039601); Normalized: testosterone; 	ATC: G03BA03; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+74. Drug: TETRACYCLINE	[A01AB13,D06AA04,J01AA07,S01AA09,S02AA08,S03AA02]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+	2.Drug: lansoprazole, tetracycline and metronidazole(C3652749); Normalized: lansoprazole tetracycline and metronidazole; 	Ingredient: lansoprazole, tetracycline and metronidazole(C3652749); Normalized: lansoprazole tetracycline and metronidazole; 	ATC: A02BD02; 	Rela: combinations;	TTY: IN;	SAB: ATC
+	3.Drug: tetracycline and oleandomycin(C2928856); Normalized: tetracycline and oleandomycin; 	Ingredient: tetracycline and oleandomycin(C2928856); Normalized: tetracycline and oleandomycin; 	ATC: J01RA08; 	Rela: combinations;	TTY: IN;	SAB: ATC
+	4.Drug: bismuth subcitrate, tetracycline and metronidazole(C2928684); Normalized: bismuth subcitrate tetracycline and metronidazole; 	Ingredient: bismuth subcitrate, tetracycline and metronidazole(C2928684); Normalized: bismuth subcitrate tetracycline and metronidazole; 	ATC: A02BD08; 	Rela: combinations;	TTY: IN;	SAB: ATC
+
+	-------------FN------------------ 
+	2.Drug: TETRACYCLINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: A01AB13; 	Rela: null;	TTY: null;	SAB: null
+	3.Drug: TETRACYCLINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: D06AA04; 	Rela: null;	TTY: null;	SAB: null
+	4.Drug: TETRACYCLINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: J01AA07; 	Rela: null;	TTY: null;	SAB: null
+	5.Drug: TETRACYCLINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: S01AA09; 	Rela: null;	TTY: null;	SAB: null
+	6.Drug: TETRACYCLINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: S02AA08; 	Rela: null;	TTY: null;	SAB: null
+	7.Drug: TETRACYCLINE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: S03AA02; 	Rela: null;	TTY: null;	SAB: null
+
+	-------------TN------------------ 
+75. Drug: THENOATE SODIUM	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: THENOATE SODIUM(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+76. Drug: THIAMINE DISULFIDE	[A11DA01]
+
+	-------------TP------------------ 
+	2.Drug: Thiamine(C0039840); Normalized: thiamine; 	Ingredient: thiamine (vit B1)(C0039840); Normalized: thiamine vit b1; 	ATC: A11DA01; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+77. Drug: THIAMPHENICOL GLYCINATE HYDROCHLORIDE	[J01BA02]
+
+	-------------TP------------------ 
+	2.Drug: Thiamphenicol(C0039854); Normalized: thiamphenicol; 	Ingredient: thiamphenicol(C0039854); Normalized: thiamphenicol; 	ATC: J01BA02; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+78. Drug: THIETHYLPERAZINE MALEATE	[R06AD03]
+
+	-------------TP------------------ 
+	2.Drug: Thiethylperazine(C0039865); Normalized: thiethylperazine; 	Ingredient: thiethylperazine(C0039865); Normalized: thiethylperazine; 	ATC: R06AD03; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+79. Drug: THYMI EXTRACTUM FLUIDUM	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: THYMI EXTRACTUM FLUIDUM(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+80. Drug: THYMUS VULGARIS EXTRACT	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: THYMUS VULGARIS EXTRACT(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+81. Drug: TITANIUM TANNATE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: TITANIUM TANNATE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+82. Drug: TOFACITINIB CITRATE	[L04AA29]
+
+	-------------TP------------------ 
+	2.Drug: tofacitinib(C2930696); Normalized: tofacitinib; 	Ingredient: tofacitinib(C2930696); Normalized: tofacitinib; 	ATC: L04AA29; 	Rela: ;	TTY: PN;	SAB: MTH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+83. Drug: TOLONIUM CHLORIDE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: TOLONIUM CHLORIDE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+84. Drug: TRICHLOROETHYLENE	[N01AB05]
+
+	-------------TP------------------ 
+	2.Drug: Trichloroethylene(C0040905); Normalized: trichloroethylene; 	Ingredient: trichloroethylene(C0040905); Normalized: trichloroethylene; 	ATC: N01AB05; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+85. Drug: TRIMEBUTINE MALEATE	[A03AA05]
+
+	-------------TP------------------ 
+	2.Drug: Trimebutine(C0041023); Normalized: trimebutine; 	Ingredient: trimebutine(C0041023); Normalized: trimebutine; 	ATC: A03AA05; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+86. Drug: TRIMETAZIDINE DIHYDROCHLORIDE	[C01EB15]
+
+	-------------TP------------------ 
+	2.Drug: Trimetazidine(C0041037); Normalized: trimetazidine; 	Ingredient: trimetazidine(C0041037); Normalized: trimetazidine; 	ATC: C01EB15; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+87. Drug: TRIPROLIDINE	[R06AX07]
+
+	-------------TP------------------ 
+	2.Drug: Triprolidine(C0041098); Normalized: triprolidine; 	Ingredient: triprolidine(C0041098); Normalized: triprolidine; 	ATC: R06AX07; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+88. Drug: TROLAMINE	[D03AX12]
+
+	-------------TP------------------ 
+	2.Drug: Trolamine(C0077089); Normalized: trolamine; 	Ingredient: trolamine(C0077089); Normalized: trolamine; 	ATC: D03AX12; 	Rela: ;	TTY: PT;	SAB: NCI
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+89. Drug: TUBERCULIN	[V04CF01]
+
+	-------------TP------------------ 
+	2.Drug: Tuberculin(C0041289); Normalized: tuberculin; 	Ingredient: tuberculin(C0041289); Normalized: tuberculin; 	ATC: V04CF01; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+90. Drug: TUBOCURARINE	[M03AA02]
+
+	-------------TP------------------ 
+	2.Drug: Tubocurarine(C0041345); Normalized: tubocurarine; 	Ingredient: tubocurarine(C0041345); Normalized: tubocurarine; 	ATC: M03AA02; 	Rela: ;	TTY: PT;	SAB: LCH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+91. Drug: UBIDECARENONE	[C01EB09]
+
+	-------------TP------------------ 
+	2.Drug: ubidecarenone(C0056077); Normalized: ubidecarenone; 	Ingredient: ubidecarenone(C0056077); Normalized: ubidecarenone; 	ATC: C01EB09; 	Rela: ;	TTY: CE;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+92. Drug: VALPROATE SEMISODIUM	[N03AG01]
+
+	-------------TP------------------ 
+	2.Drug: Valproate(C0080356); Normalized: valproate; 	Ingredient: Valproic Acid(C0042291); Normalized: valproic acid; 	ATC: N03AG01; 	Rela: form_of;	TTY: PT;	SAB: RCD
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+93. Drug: VECURONIUM BROMIDE	[M03AC03 ]
+
+	-------------TP------------------ 
+	2.Drug: Vecuronium(C0242531); Normalized: vecuronium; 	Ingredient: vecuronium(C0242531); Normalized: vecuronium; 	ATC: M03AC03; 	Rela: ;	TTY: BN;	SAB: MMSL
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+94. Drug: VERATRUM ALBUM PREPARATION	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+	2.Drug: veratrum(C0042528); Normalized: veratrum; 	Ingredient: veratrum(C0042528); Normalized: veratrum; 	ATC: C02KA01; 	Rela: ;	TTY: IN;	SAB: ATC
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+95. Drug: VIRGAUREA HERB	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: VIRGAUREA HERB(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+96. Drug: VITAMIN F	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: VITAMIN F(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+97. Drug: VITAMIN-B-KOMPLEX STANDARD	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+98. Drug: VON WILLEBRAND FACTOR	[B02BD10]
+
+	-------------TP------------------ 
+	2.Drug: von Willebrand Factor(C0042971); Normalized: von willebrand factor; 	Ingredient: von Willebrand factor(C0042971); Normalized: von willebrand factor; 	ATC: B02BD10; 	Rela: ;	TTY: MH;	SAB: MSH
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+99. Drug: ZINC SULPHATE	[A12CB01]
+
+	-------------TP------------------ 
+	2.Drug: zinc sulphate(C0078794); Normalized: zinc sulphate; 	Ingredient: zinc sulfate(C0078794); Normalized: zinc sulfate; 	ATC: A12CB01; 	Rela: ;	TTY: SY;	SAB: CHV
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+100. Drug: ZINGIBER OFFICINALE	[]
+
+	-------------TP------------------ 
+
+	-------------FP------------------ 
+
+	-------------FN------------------ 
+
+	-------------TN------------------ 
+	2.Drug: ZINGIBER OFFICINALE(null); Normalized: null; 	Ingredient: null(null); Normalized: null; 	ATC: null; 	Rela: null;	TTY: null;	SAB: null
+
+
+TP = 79
+FP = 13
+FN = 17
+TN = 34
+Accuracy = 0.790
+Precision = 0.859
+Recall(Sensitivity) = 0.823
+Specificity = 0.723
+F-score = 0.840
+TP		FP		FN		TN		Accuracy	Precision	Recall (Sensitivity)	Specificity		F-score
+79		13		17		34		0.790		0.859		0.823					0.723			0.840
+TP	FP	FN	TN	Accuracy	Precision	Recall (Sensitivity)	Specificity	F-score
+79	13	17	34	0.790	0.859	0.823	0.723	0.840
